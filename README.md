@@ -1,1 +1,1 @@
-See [the docs](https://hsdl.github.io/default-project/) for more information.
+See [the docs](https://hsdl.github.io/DefaultProject/) for more information.
