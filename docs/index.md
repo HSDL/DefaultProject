@@ -2,4 +2,6 @@
 
 ## Introduction
 
+## Citing this work
+
 ## Acknowledgements
